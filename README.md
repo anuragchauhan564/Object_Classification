@@ -20,7 +20,8 @@ The dataset consists of images of cats and dogs obtained from kaggle.
 ## How to Run
 
     conda create -n catdog python=3.7 -y
-    conda activate catdog
+
+conda activate catdog
 
 ## Install the required dependencies:
     pip install -r requirements.txt
