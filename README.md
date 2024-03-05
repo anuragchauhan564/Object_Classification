@@ -1,6 +1,10 @@
-# Cat and Dog Object Classification
+# Cat and Dog Object Classification using VGG16
 
-This project aims to classify images into two categories: cats and dogs using machine learning techniques. The model will be trained on a dataset containing labeled images of cats and dogs and will be capable of predicting the category of new images.
+This project aims to classify images of cats and dogs using the VGG16 convolutional neural network architecture. VGG16 is a popular deep learning model known for its effectiveness in image classification tasks.
+
+## Overview
+
+The VGG16 model is pre-trained on the ImageNet dataset, which contains a vast number of images across 1,000 categories. In this project, we will fine-tune the VGG16 model on our dataset of cat and dog images to leverage its learned features for our specific task.
 
 ## Dataset
 
